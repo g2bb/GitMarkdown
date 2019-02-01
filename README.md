@@ -1,8 +1,8 @@
 # GitMarkdown
 
-##H2
+## H2
 
-####H4
+#### H4
 
 [LINK](https://www.flickr.com/photos/g2bb/)
 
