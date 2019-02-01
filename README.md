@@ -4,7 +4,7 @@
 
 #### H4
 
-[LINK](https://www.flickr.com/photos/g2bb/)
+[External Link](https://www.flickr.com/photos/g2bb/)
 
 [Internal Link](LinkToMe.md)
 
@@ -14,7 +14,7 @@
 
 ```javascript
     if(code){
-        putInCodeBlock
+        PutInCodeBlock;
     }
 ```
 
