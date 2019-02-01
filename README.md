@@ -6,9 +6,9 @@
 
 [LINK](https://www.flickr.com/photos/g2bb/)
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!link to 2nd markdown!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[Internal Link](LinkToMe.md)
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!IMG in directory!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+![Internal Image](_DSC0417.jpg)
 
 ![Img from my Flickr](https://c1.staticflickr.com/5/4401/36365501143_0b4b53d5cd_h.jpg)
 
