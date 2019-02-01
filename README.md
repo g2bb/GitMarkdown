@@ -21,11 +21,11 @@
 >Hello
 >World
 
--this
--is
--a
--bulleted
--list
+- this
+- is
+- a
+- bulleted
+- list
 
 1. this
 2. is
@@ -33,8 +33,10 @@
 4. numbered
 5. list
 
-THIS | IS
-A | TABLE
+| Col 1         | Col 2         |
+| ------------- |:-------------:|
+| THIS          | IS            |
+| A             | TABLE         |
 
 **BOLD**
 
